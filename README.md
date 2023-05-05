@@ -25,7 +25,7 @@
 ## Usage
 project will be hosted on Heroku site. 
 
-### [link](placeholder)
+### [link](https://express-note-taker-7k.herokuapp.com/)
 
 ## License
 - MIT
